@@ -1,4 +1,4 @@
-# Simple Ehtereum Wallet
+# Simple Ethereum Wallet
  
 ![Ethereum Wallet](simplewallet-small.png)
 
